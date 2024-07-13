@@ -23,7 +23,7 @@ body{
     height: 230px;
     padding: 15px;
     padding-bottom: 10px;
-    box-shadow: 3px 3px 30px currentColor;
+    box-shadow: 3px 3px 30px;
     background-image: url("../vector-cartoon-cloud-set-white-element-weather-blue-sky_1284-44184.jpg.avif");
 }
 
