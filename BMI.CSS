@@ -1,0 +1,80 @@
+body{
+    background-color: #72c8e7;
+}
+
+
+
+
+
+
+
+
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.card-body{
+    background-color:  #a0d2eb;
+    text-align: center;
+    border: 3px solid #a4d2f6;
+    border-radius: 10px;
+    width: 350px;
+    height: 230px;
+    padding: 15px;
+    padding-bottom: 10px;
+    box-shadow: 3px 3px 30px currentColor;
+    background-image: url("../vector-cartoon-cloud-set-white-element-weather-blue-sky_1284-44184.jpg.avif");
+}
+
+
+button{
+    background-color: #d9e1f3;
+    border: 2px solid;
+    border-radius: 6px;
+    cursor: pointer;
+    display: block;
+    font-size: large;
+}
+
+
+button:hover{
+    background-color: #e6eaf7;
+}
+
+
+.results{
+    padding: 10px;
+    max-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-style: oblique;
+}
+
+
+
+.input-box{
+    border: 2px solid;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+}
+
+
+span {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 1000;
+}
